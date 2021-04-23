@@ -4,7 +4,7 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" />
 </a>
 
-<a href="linkedin.com/in/aliaksandr-martsavy">
+<a href="https://linkedin.com/in/aliaksandr-martsavy">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/Small_Martsevoi">
@@ -34,11 +34,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 -->
 
+🌱 I’m currently learning ...
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+- <a href="https://www.youtube.com/watch?v=TI2eG_sjllg&list=PLxeQ-jZjcEf2HI9B0l1YuUy_-iAjlydwR">
+    <img align="left" alt="Docker course" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+  </a>
+
+
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на #slurm
-* [ ] Создать свой первый проект на Github       
+* [x] Пройти курс по Git на #slurm
+* [x] Создать свой первый проект на Github       
 <!-- TODO-IST:END -->
 <!--
 **martsavy/martsavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
