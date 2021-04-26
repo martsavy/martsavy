@@ -20,12 +20,17 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
-  
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<a href="https://slurm.io/git">
+    <img align="left" alt="Git course" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+</a>
+<a href="https://www.youtube.com/watch?v=TI2eG_sjllg&list=PLxeQ-jZjcEf2HI9B0l1YuUy_-iAjlydwR">
+    <img align="left" alt="Docker course" width="30px" src="https://img.icons8.com/dusk/128/000000/docker.png"/>
+</a>
+<br />
 <!--
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -34,11 +39,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 -->
 
+
 🌱 I’m currently learning ...
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-- <a href="https://www.youtube.com/watch?v=TI2eG_sjllg&list=PLxeQ-jZjcEf2HI9B0l1YuUy_-iAjlydwR">
-    <img align="left" alt="Docker course" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+- <a href="https://stepik.org/58852">
+    <img align="left" alt="Python course" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
   </a>
+- 
 
 
 🚧 **Мои задачи на ближайшее время:**
@@ -61,3 +67,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://icons8.com/icon/22813/docker">Docker icon by Icons8</a>
